@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vibin Kc</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/550x/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vibinkc&label=Profile%20views&color=0e75b6&style=flat" alt="vibinkc" /> </p>
 
